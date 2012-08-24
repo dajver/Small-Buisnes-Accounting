@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="dyplom.AddtoChina">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/yCAAAAAACAAQBSCEACCAQBCIAAIAAECEGACAAABhLY=</HashCode>
+      <FileName>AddtoChina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dyplom.addUser">
+    <Position X="4" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABQQAACCAQBCAAAYAAAAEGECAAAAAQQ=</HashCode>
+      <FileName>addUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dyplom.admin">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAKAAYBEAICCAAABCAAAAAAAABAAAAAAAIAA=</HashCode>
+      <FileName>admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dyplom.User">
+    <Position X="5.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAgEAAAAAAAAAAAAAAAAACAAAQAAAAAAA=</HashCode>
+      <FileName>admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dyplom.AllBlanks">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAAAAAABCAAAACAAAAAAAAAAAAAYBAAAA=</HashCode>
+      <FileName>AllBlanks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dyplom.Container">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACABAAAAAACAAAACAEAAAAAAAABAAAAAACA=</HashCode>
+      <FileName>Container.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dyplom.ctrBalance">
+    <Position X="2.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACEAAAIAAACAAAACAAAAAACAAgAAAAAAAAA=</HashCode>
+      <FileName>ctrBalance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dyplom.Edit">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/yCAAAAAASAAQBSCEACCAQBCIAAIAQACECACAAABhLY=</HashCode>
+      <FileName>Edit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dyplom.Graphic">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graphic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dyplom.MainForm">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>NQAgUACAoSaIADUCACKCAQYDABiASABEQFhSCggAQAQ=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dyplom.VocabDataSource">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAAAAAAAAAAAEgAAAAQACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dyplom.ReportBalance">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/+AcAAgAASDCAPyzMQSQxP97IAC44PABFHAABfoDELA=</HashCode>
+      <FileName>ReportBalance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dyplom.ReportnNDS">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>////qEkFESjoAvyzNTTQ/f//o0T4/v+fVTAImf/vsLI=</HashCode>
+      <FileName>ReportnNDS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dyplom.ReportProfit">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/+AMAAAAASAAAPyzEACAwAFzIAAo4PABEHAAAfgAALA=</HashCode>
+      <FileName>ReportProfit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

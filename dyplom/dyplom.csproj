@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4BF3EEA9-36E9-46CD-95B0-25B237AEC4E9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>dyplom</RootNamespace>
+    <AssemblyName>SBA</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>contents.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZedGraph">
+      <HintPath>..\..\..\мусорка\ZedGraph\WindowsFormsApplication4\bin\Debug\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addUser.Designer.cs">
+      <DependentUpon>addUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin.Designer.cs">
+      <DependentUpon>admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllBlanks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllBlanks.Designer.cs">
+      <DependentUpon>AllBlanks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Container.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Container.Designer.cs">
+      <DependentUpon>Container.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ctrBalance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ctrBalance.Designer.cs">
+      <DependentUpon>ctrBalance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dataDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dataDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Graphic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Graphic.Designer.cs">
+      <DependentUpon>Graphic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReportBalance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportBalance.Designer.cs">
+      <DependentUpon>ReportBalance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportnNDS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportnNDS.Designer.cs">
+      <DependentUpon>ReportnNDS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportProfit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportProfit.Designer.cs">
+      <DependentUpon>ReportProfit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddtoChina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddtoChina.Designer.cs">
+      <DependentUpon>AddtoChina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit.Designer.cs">
+      <DependentUpon>Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addUser.resx">
+      <DependentUpon>addUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin.resx">
+      <DependentUpon>admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllBlanks.resx">
+      <DependentUpon>AllBlanks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Container.resx">
+      <DependentUpon>Container.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrBalance.resx">
+      <DependentUpon>ctrBalance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Graphic.resx">
+      <DependentUpon>Graphic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReportBalance.resx">
+      <DependentUpon>ReportBalance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportnNDS.resx">
+      <DependentUpon>ReportnNDS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportProfit.resx">
+      <DependentUpon>ReportProfit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddtoChina.resx">
+      <DependentUpon>AddtoChina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit.resx">
+      <DependentUpon>Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="dataDataSet1.xsc">
+      <DependentUpon>dataDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="dataDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dataDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dataDataSet1.xss">
+      <DependentUpon>dataDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="contents.ico" />
+    <Content Include="data.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\old-zoom-original.png" />
+    <None Include="Resources\бланк3.jpg" />
+    <None Include="Resources\бланк2.jpg" />
+    <None Include="Resources\бланк1.jpg" />
+    <None Include="Resources\communityhelp %281%29.png" />
+    <None Include="Resources\communityhelp.png" />
+    <None Include="Resources\user1 удал.jpg" />
+    <None Include="Resources\use11111r1.jpg" />
+    <None Include="Resources\user1.png" />
+    <None Include="Resources\images %281%29.jpg" />
+    <None Include="Resources\filesaveas.png" />
+    <None Include="Resources\save_all.png" />
+    <None Include="Resources\refresh.png" />
+    <None Include="Resources\1301402861_121.jpg" />
+    <None Include="Resources\user_male.jpg" />
+    <None Include="Resources\user_male.png" />
+    <None Include="Resources\Windows-JournalДел.jpg" />
+    <None Include="Resources\Windows-JournalЕд1.jpg" />
+    <None Include="Resources\Windows-JournalЕд.jpg" />
+    <None Include="Resources\Windows-Journal.jpg" />
+    <None Include="Resources\images.jpg" />
+    <None Include="Resources\contents.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

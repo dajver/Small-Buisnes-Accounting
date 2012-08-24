@@ -1,0 +1,286 @@
+D:\работачка\Дипломы\база данных\dyplom\dyplom\bin\Debug\dyplom.exe
+D:\работачка\Дипломы\база данных\dyplom\dyplom\bin\Debug\dyplom.pdb
+D:\работачка\Дипломы\база данных\dyplom\dyplom\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\работачка\Дипломы\база данных\dyplom\dyplom\obj\x86\Debug\dyplom.Form1.resources
+D:\работачка\Дипломы\база данных\dyplom\dyplom\obj\x86\Debug\dyplom.Properties.Resources.resources
+D:\работачка\Дипломы\база данных\dyplom\dyplom\obj\x86\Debug\dyplom.ur.resources
+D:\работачка\Дипломы\база данных\dyplom\dyplom\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\работачка\Дипломы\база данных\dyplom\dyplom\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\работачка\Дипломы\база данных\dyplom\dyplom\obj\x86\Debug\dyplom.exe
+D:\работачка\Дипломы\база данных\dyplom\dyplom\obj\x86\Debug\dyplom.pdb
+D:\работачка\Дипломы\база данных\dyplom\dyplom\obj\x86\Debug\dyplom.help.resources
+D:\работачка\Дипломы\база данных\dyplom\dyplom\obj\x86\Debug\dyplom.fiz.resources
+D:\Доки\dyplom\dyplom\obj\x86\Debug\dyplom.exe
+D:\Доки\dyplom\dyplom\obj\x86\Debug\dyplom.pdb
+D:\Доки\dyplom\dyplom\bin\Debug\dyplom.exe
+D:\Доки\dyplom\dyplom\bin\Debug\dyplom.pdb
+D:\Доки\dyplom\dyplom\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Доки\dyplom\dyplom\obj\x86\Debug\dyplom.fiz.resources
+D:\Доки\dyplom\dyplom\obj\x86\Debug\dyplom.Form1.resources
+D:\Доки\dyplom\dyplom\obj\x86\Debug\dyplom.help.resources
+D:\Доки\dyplom\dyplom\obj\x86\Debug\dyplom.Properties.Resources.resources
+D:\Доки\dyplom\dyplom\obj\x86\Debug\dyplom.ur.resources
+D:\Доки\dyplom\dyplom\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Доки\dyplom\dyplom\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\работачка\Дипломы\база данных\dyplom редакт\dyplom\obj\x86\Debug\dyplom.exe
+D:\работачка\Дипломы\база данных\dyplom редакт\dyplom\obj\x86\Debug\dyplom.pdb
+D:\работачка\Дипломы\база данных\dyplom редакт\dyplom\bin\Debug\dyplom.exe
+D:\работачка\Дипломы\база данных\dyplom редакт\dyplom\bin\Debug\dyplom.pdb
+D:\работачка\Дипломы\база данных\dyplom редакт\dyplom\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\работачка\Дипломы\база данных\dyplom редакт\dyplom\obj\x86\Debug\dyplom.fiz.resources
+D:\работачка\Дипломы\база данных\dyplom редакт\dyplom\obj\x86\Debug\dyplom.Form1.resources
+D:\работачка\Дипломы\база данных\dyplom редакт\dyplom\obj\x86\Debug\dyplom.help.resources
+D:\работачка\Дипломы\база данных\dyplom редакт\dyplom\obj\x86\Debug\dyplom.Properties.Resources.resources
+D:\работачка\Дипломы\база данных\dyplom редакт\dyplom\obj\x86\Debug\dyplom.ur.resources
+D:\работачка\Дипломы\база данных\dyplom редакт\dyplom\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\работачка\Дипломы\база данных\dyplom редакт\dyplom\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\работачка\Дипломы\база данных\dyplom редакт\dyplom\bin\Debug\data.mdb
+D:\работачка\Дипломы\база данных\dyplom редакт\dyplom\bin\Debug\dyplom.exe.config
+D:\работачка\Дипломы\база данных\dyplom редакт\dyplom\obj\x86\Debug\dyplom.UrEdit.resources
+F:\подобие диплома\dyplom редакт\dyplom\bin\Debug\dyplom.exe.config
+F:\подобие диплома\dyplom редакт\dyplom\obj\x86\Debug\dyplom.exe
+F:\подобие диплома\dyplom редакт\dyplom\obj\x86\Debug\dyplom.pdb
+F:\подобие диплома\dyplom редакт\dyplom\bin\Debug\data.mdb
+F:\подобие диплома\dyplom редакт\dyplom\bin\Debug\dyplom.exe
+F:\подобие диплома\dyplom редакт\dyplom\bin\Debug\dyplom.pdb
+F:\подобие диплома\dyplom редакт\dyplom\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\подобие диплома\dyplom редакт\dyplom\obj\x86\Debug\dyplom.fiz.resources
+F:\подобие диплома\dyplom редакт\dyplom\obj\x86\Debug\dyplom.Form1.resources
+F:\подобие диплома\dyplom редакт\dyplom\obj\x86\Debug\dyplom.help.resources
+F:\подобие диплома\dyplom редакт\dyplom\obj\x86\Debug\dyplom.Properties.Resources.resources
+F:\подобие диплома\dyplom редакт\dyplom\obj\x86\Debug\dyplom.ur.resources
+F:\подобие диплома\dyplom редакт\dyplom\obj\x86\Debug\dyplom.UrEdit.resources
+F:\подобие диплома\dyplom редакт\dyplom\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\подобие диплома\dyplom редакт\dyplom\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Доки\dyplom редакт\dyplom\bin\Debug\dyplom.exe.config
+D:\Доки\dyplom редакт\dyplom\obj\x86\Debug\dyplom.exe
+D:\Доки\dyplom редакт\dyplom\obj\x86\Debug\dyplom.pdb
+D:\Доки\dyplom редакт\dyplom\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Доки\dyplom редакт\dyplom\obj\x86\Debug\dyplom.fiz.resources
+D:\Доки\dyplom редакт\dyplom\obj\x86\Debug\dyplom.Form1.resources
+D:\Доки\dyplom редакт\dyplom\obj\x86\Debug\dyplom.help.resources
+D:\Доки\dyplom редакт\dyplom\obj\x86\Debug\dyplom.Properties.Resources.resources
+D:\Доки\dyplom редакт\dyplom\obj\x86\Debug\dyplom.ur.resources
+D:\Доки\dyplom редакт\dyplom\obj\x86\Debug\dyplom.UrEdit.resources
+D:\Доки\dyplom редакт\dyplom\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Доки\dyplom редакт\dyplom\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Доки\dyplom редакт\dyplom\bin\Debug\dyplom.exe
+D:\Доки\dyplom редакт\dyplom\bin\Debug\dyplom.pdb
+D:\Доки\dyplom редакт\dyplom\obj\x86\Debug\dyplom.admin.resources
+D:\Доки\dyplom редакт\dyplom\obj\x86\Debug\dyplom.User.resources
+D:\Доки\dyplom редакт\dyplom\obj\x86\Debug\dyplom.addUser.resources
+D:\Доки\dyplom редакт\dyplom\obj\x86\Debug\dyplom.FizEdit.resources
+D:\Доки\Диплом - копия\dyplom\bin\Debug\dyplom.exe.config
+D:\Доки\Диплом - копия\dyplom\obj\x86\Debug\dyplom.exe
+D:\Доки\Диплом - копия\dyplom\obj\x86\Debug\dyplom.pdb
+D:\Доки\Диплом - копия\dyplom\bin\Debug\dyplom.exe
+D:\Доки\Диплом - копия\dyplom\bin\Debug\dyplom.pdb
+D:\Доки\Диплом - копия\dyplom\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Доки\Диплом - копия\dyplom\obj\x86\Debug\dyplom.addUser.resources
+D:\Доки\Диплом - копия\dyplom\obj\x86\Debug\dyplom.admin.resources
+D:\Доки\Диплом - копия\dyplom\obj\x86\Debug\dyplom.fiz.resources
+D:\Доки\Диплом - копия\dyplom\obj\x86\Debug\dyplom.FizEdit.resources
+D:\Доки\Диплом - копия\dyplom\obj\x86\Debug\dyplom.Form1.resources
+D:\Доки\Диплом - копия\dyplom\obj\x86\Debug\dyplom.help.resources
+D:\Доки\Диплом - копия\dyplom\obj\x86\Debug\dyplom.Properties.Resources.resources
+D:\Доки\Диплом - копия\dyplom\obj\x86\Debug\dyplom.ur.resources
+D:\Доки\Диплом - копия\dyplom\obj\x86\Debug\dyplom.UrEdit.resources
+D:\Доки\Диплом - копия\dyplom\obj\x86\Debug\dyplom.User.resources
+D:\Доки\Диплом - копия\dyplom\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Доки\Диплом - копия\dyplom\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Доки\Диплом - копия\dyplom\bin\Debug\data.mdb
+D:\Доки\Диплом\Диплом - рабочая версия\dyplom\bin\Debug\dyplom.exe.config
+D:\Доки\Диплом\Диплом - рабочая версия\dyplom\obj\x86\Debug\dyplom.exe
+D:\Доки\Диплом\Диплом - рабочая версия\dyplom\obj\x86\Debug\dyplom.pdb
+D:\Доки\Диплом\Диплом - рабочая версия\dyplom\bin\Debug\data.mdb
+D:\Доки\Диплом\Диплом - рабочая версия\dyplom\bin\Debug\dyplom.exe
+D:\Доки\Диплом\Диплом - рабочая версия\dyplom\bin\Debug\dyplom.pdb
+D:\Доки\Диплом\Диплом - рабочая версия\dyplom\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Доки\Диплом\Диплом - рабочая версия\dyplom\obj\x86\Debug\dyplom.addUser.resources
+D:\Доки\Диплом\Диплом - рабочая версия\dyplom\obj\x86\Debug\dyplom.admin.resources
+D:\Доки\Диплом\Диплом - рабочая версия\dyplom\obj\x86\Debug\dyplom.fiz.resources
+D:\Доки\Диплом\Диплом - рабочая версия\dyplom\obj\x86\Debug\dyplom.FizEdit.resources
+D:\Доки\Диплом\Диплом - рабочая версия\dyplom\obj\x86\Debug\dyplom.Form1.resources
+D:\Доки\Диплом\Диплом - рабочая версия\dyplom\obj\x86\Debug\dyplom.help.resources
+D:\Доки\Диплом\Диплом - рабочая версия\dyplom\obj\x86\Debug\dyplom.Properties.Resources.resources
+D:\Доки\Диплом\Диплом - рабочая версия\dyplom\obj\x86\Debug\dyplom.ur.resources
+D:\Доки\Диплом\Диплом - рабочая версия\dyplom\obj\x86\Debug\dyplom.UrEdit.resources
+D:\Доки\Диплом\Диплом - рабочая версия\dyplom\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Доки\Диплом\Диплом - рабочая версия\dyplom\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Доки\Диплом\Диплом - рабочая версия\dyplom\obj\x86\Debug\dyplom.Users.resources
+D:\Доки\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Доки\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.addUser.resources
+D:\Доки\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.admin.resources
+D:\Доки\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.Properties.Resources.resources
+D:\Доки\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Доки\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Доки\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.ReportProfit.resources
+D:\Доки\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.Edit.resources
+D:\Доки\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.AddtoChina.resources
+D:\Доки\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.MainForm.resources
+L:\мусорка\Диплом - муе детище\dyplom\bin\Debug\dyplom.exe.config
+L:\мусорка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.exe
+L:\мусорка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.pdb
+L:\мусорка\Диплом - муе детище\dyplom\bin\Debug\dyplom.exe
+L:\мусорка\Диплом - муе детище\dyplom\bin\Debug\dyplom.pdb
+L:\мусорка\Диплом - муе детище\dyplom\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\мусорка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.addUser.resources
+L:\мусорка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.admin.resources
+L:\мусорка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.Properties.Resources.resources
+L:\мусорка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.ReportBalance.resources
+L:\мусорка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.ReportNDS.resources
+L:\мусорка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.ReportProfit.resources
+L:\мусорка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.AddtoChina.resources
+L:\мусорка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.Edit.resources
+L:\мусорка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.MainForm.resources
+L:\мусорка\Диплом - муе детище\dyplom\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\мусорка\Диплом - муе детище\dyplom\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\мусорка\Диплом - муе детище\dyplom\bin\Debug\dyplom.exe.config
+G:\мусорка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.exe
+G:\мусорка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.pdb
+D:\работачка\Диплом - муе детище\dyplom\bin\Debug\dyplom.exe.config
+D:\работачка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.exe
+D:\работачка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.pdb
+D:\работачка\Диплом - муе детище\dyplom\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\работачка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.addUser.resources
+D:\работачка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.admin.resources
+D:\работачка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.Properties.Resources.resources
+D:\работачка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.ReportBalance.resources
+D:\работачка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.ReportNDS.resources
+D:\работачка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.ReportProfit.resources
+D:\работачка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.AddtoChina.resources
+D:\работачка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.Edit.resources
+D:\работачка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.MainForm.resources
+D:\работачка\Диплом - муе детище\dyplom\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\работачка\Диплом - муе детище\dyplom\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\работачка\Диплом - муе детище\dyplom\bin\Debug\dyplom.exe
+D:\работачка\Диплом - муе детище\dyplom\bin\Debug\dyplom.pdb
+D:\работачка\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.Container.resources
+D:\Диплом - муе детище\dyplom\bin\Debug\dyplom.exe.config
+D:\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.exe
+D:\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.pdb
+D:\Доки\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.Container.resources
+D:\Доки\Диплом\Диплом - муе детище - бекап на вссяк случай\dyplom\bin\Debug\dyplom.exe.config
+D:\Доки\Диплом\Диплом - муе детище - бекап на вссяк случай\dyplom\obj\x86\Debug\dyplom.exe
+D:\Доки\Диплом\Диплом - муе детище - бекап на вссяк случай\dyplom\obj\x86\Debug\dyplom.pdb
+D:\Доки\Диплом\Диплом - муе детище - бекап на вссяк случай\dyplom\bin\Debug\dyplom.exe
+D:\Доки\Диплом\Диплом - муе детище - бекап на вссяк случай\dyplom\bin\Debug\dyplom.pdb
+D:\Доки\Диплом\Диплом - муе детище - бекап на вссяк случай\dyplom\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Доки\Диплом\Диплом - муе детище - бекап на вссяк случай\dyplom\obj\x86\Debug\dyplom.addUser.resources
+D:\Доки\Диплом\Диплом - муе детище - бекап на вссяк случай\dyplom\obj\x86\Debug\dyplom.admin.resources
+D:\Доки\Диплом\Диплом - муе детище - бекап на вссяк случай\dyplom\obj\x86\Debug\dyplom.Container.resources
+D:\Доки\Диплом\Диплом - муе детище - бекап на вссяк случай\dyplom\obj\x86\Debug\dyplom.Properties.Resources.resources
+D:\Доки\Диплом\Диплом - муе детище - бекап на вссяк случай\dyplom\obj\x86\Debug\dyplom.ReportBalance.resources
+D:\Доки\Диплом\Диплом - муе детище - бекап на вссяк случай\dyplom\obj\x86\Debug\dyplom.ReportNDS.resources
+D:\Доки\Диплом\Диплом - муе детище - бекап на вссяк случай\dyplom\obj\x86\Debug\dyplom.ReportProfit.resources
+D:\Доки\Диплом\Диплом - муе детище - бекап на вссяк случай\dyplom\obj\x86\Debug\dyplom.AddtoChina.resources
+D:\Доки\Диплом\Диплом - муе детище - бекап на вссяк случай\dyplom\obj\x86\Debug\dyplom.Edit.resources
+D:\Доки\Диплом\Диплом - муе детище - бекап на вссяк случай\dyplom\obj\x86\Debug\dyplom.MainForm.resources
+D:\Доки\Диплом\Диплом - муе детище - бекап на вссяк случай\dyplom\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Доки\Диплом\Диплом - муе детище - бекап на вссяк случай\dyplom\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Доки\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.ReportnNDS.resources
+D:\Доки\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.ReportBalance.resources
+D:\Доки\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.ctrBalance.resources
+D:\Доки\Диплом\Диплом - муе детище\dyplom\bin\Debug\data.mdb
+D:\Доки\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.Graphic.resources
+D:\Доки\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.AllBlanks.resources
+D:\Доки\Диплом\Диплом - муе детище\dyplom\bin\Debug\ZedGraph.dll
+D:\Доки\Диплом\Диплом - муе детище\dyplom\bin\Debug\ZedGraph.xml
+D:\Доки\Диплом\Диплом - муе детище\dyplom\bin\Debug\de\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище\dyplom\bin\Debug\es\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище\dyplom\bin\Debug\fr\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище\dyplom\bin\Debug\hu\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище\dyplom\bin\Debug\it\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище\dyplom\bin\Debug\ja\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище\dyplom\bin\Debug\pt\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище\dyplom\bin\Debug\ru\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище\dyplom\bin\Debug\sk\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище\dyplom\bin\Debug\sv\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище\dyplom\bin\Debug\tr\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище\dyplom\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище\dyplom\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.About.resources
+D:\Доки\Диплом\прога\Диплом - муе детище - 10.06.11\dyplom\bin\Debug\dyplom.exe.config
+D:\Доки\Диплом\прога\Диплом - муе детище - 10.06.11\dyplom\obj\x86\Debug\dyplom.exe
+D:\Доки\Диплом\прога\Диплом - муе детище - 10.06.11\dyplom\obj\x86\Debug\dyplom.pdb
+D:\Доки\Диплом\Диплом - муе детище\dyplom\bin\Debug\SBA.exe.config
+D:\Доки\Диплом\Диплом - муе детище\dyplom\bin\Debug\SBA.exe
+D:\Доки\Диплом\Диплом - муе детище\dyplom\bin\Debug\SBA.pdb
+D:\Доки\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\SBA.exe
+D:\Доки\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\SBA.pdb
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\bin\Debug\SBA.exe.config
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\obj\x86\Debug\SBA.exe
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\obj\x86\Debug\SBA.pdb
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\obj\x86\Debug\dyplom.About.resources
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\obj\x86\Debug\dyplom.addUser.resources
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\obj\x86\Debug\dyplom.admin.resources
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\obj\x86\Debug\dyplom.AllBlanks.resources
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\obj\x86\Debug\dyplom.Container.resources
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\obj\x86\Debug\dyplom.ctrBalance.resources
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\obj\x86\Debug\dyplom.Graphic.resources
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\obj\x86\Debug\dyplom.Properties.Resources.resources
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\obj\x86\Debug\dyplom.ReportBalance.resources
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\obj\x86\Debug\dyplom.ReportnNDS.resources
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\obj\x86\Debug\dyplom.ReportProfit.resources
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\obj\x86\Debug\dyplom.AddtoChina.resources
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\obj\x86\Debug\dyplom.Edit.resources
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\obj\x86\Debug\dyplom.MainForm.resources
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\bin\Debug\SBA.exe
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\bin\Debug\SBA.pdb
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\bin\Debug\ZedGraph.dll
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\bin\Debug\ZedGraph.xml
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\bin\Debug\de\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\bin\Debug\es\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\bin\Debug\fr\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\bin\Debug\hu\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\bin\Debug\it\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\bin\Debug\ja\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\bin\Debug\pt\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\bin\Debug\ru\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\bin\Debug\sk\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\bin\Debug\sv\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\bin\Debug\tr\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Доки\Диплом\Диплом - муе детище - копия\dyplom\bin\Debug\data.mdb
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\bin\Debug\SBA.exe.config
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\SBA.exe
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\SBA.pdb
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\bin\Debug\data.mdb
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\bin\Debug\SBA.exe
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\bin\Debug\SBA.pdb
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\bin\Debug\ZedGraph.dll
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\bin\Debug\ZedGraph.xml
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\bin\Debug\de\ZedGraph.resources.dll
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\bin\Debug\es\ZedGraph.resources.dll
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\bin\Debug\fr\ZedGraph.resources.dll
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\bin\Debug\hu\ZedGraph.resources.dll
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\bin\Debug\it\ZedGraph.resources.dll
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\bin\Debug\ja\ZedGraph.resources.dll
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\bin\Debug\pt\ZedGraph.resources.dll
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\bin\Debug\ru\ZedGraph.resources.dll
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\bin\Debug\sk\ZedGraph.resources.dll
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\bin\Debug\sv\ZedGraph.resources.dll
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\bin\Debug\tr\ZedGraph.resources.dll
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.About.resources
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.addUser.resources
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.admin.resources
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.AllBlanks.resources
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.Container.resources
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.ctrBalance.resources
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.Graphic.resources
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.Properties.Resources.resources
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.ReportBalance.resources
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.ReportnNDS.resources
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.ReportProfit.resources
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.AddtoChina.resources
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.Edit.resources
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\dyplom.MainForm.resources
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Разработачка\Диплом\Диплом - муе детище\dyplom\obj\x86\Debug\GenerateResource.write.1.tlog
